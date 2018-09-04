@@ -71,7 +71,8 @@ a {
   .page-header {
     padding: 2rem 1rem; } }
 
-.thumbnail-wrappper { width: 100%; height: auto; }
+#banner{ max-width: 100%; height: auto; left: 0px; right: 0px; } 
+#myImage{ width: 100%; height: auto; left: 0px; right: 0px; }
 
 .project-name {
   margin-top: 0;
