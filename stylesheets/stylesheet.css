@@ -55,9 +55,12 @@ a {
 
 .page-header {
   color: #fff;
-  text-align: center;
+  text-align: center; }
+/*
+  배너이미지 등록으로 인한 변경
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: linear-gradient(120deg, #155799, #159957);
+} */
 
 @media screen and (min-width: 64em) {
   .page-header {
